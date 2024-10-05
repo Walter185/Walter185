@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **react, angular**
 
-- 📫 How to reach me **walter.liendo@gmail.com**
+- 📫 How to reach me **walter.liendo@gmail.com** or send me a Whatsapp at <Whatsapp>+5491158465481<Whatsapp/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

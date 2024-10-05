@@ -6,9 +6,9 @@
 
 - 💬 Ask me about **react, angular**
 
-- 📫 How to reach me **walter.liendo@gmail.com** or send me a Whatsapp at <Whatsapp href="https://api.whatsapp.com/send?phone=5491158465481" className="btn-wsp" target="_blank">
-              <i className="fa fa-whatsapp icono"></i>
-          </Whatsapp>
+- 📫 How to reach me **walter.liendo@gmail.com** or send me a Whatsapp at <a href="https://api.whatsapp.com/send?phone=5491158465481" className="btn-wsp" target="_blank">
+              +5491158465481
+          </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
